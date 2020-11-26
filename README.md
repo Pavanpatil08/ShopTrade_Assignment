@@ -1,27 +1,13 @@
-# ShopTrade_Assignment
+# ShopTrade Take-Home Assignment
+## Task
 
-## Technology used
+E-commerce Website
 
-1) Reactjs
-2) Boostrap
+## Built With
 
-## How to run?
-step1: Clone the repository
-step2: install the npm modules
+- ReactJS
+- Bootstrap
 
+## Install The App
 
-## Dependecies 
-1) Boostrap 
-2) Fontawesome
-
-## Approach
-1) Created Github Respository
-2) Collected Resources
-3) Imporoved simple structure and then improved it as per given task
-
-
-## Resources
- 1) MDN Web Docks
- 2) Boostrap
- 3) npm
- 4) Reactjs Documentation
+- npm i
